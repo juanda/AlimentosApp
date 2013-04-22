@@ -1,0 +1,3 @@
+JazzywebAulasMentor_alimentos:
+  resource: "@JazzywebAulasMentorAlimentosBundle/Resources/config/routing.yml"
+  prefix: alimentos/
